@@ -1,5 +1,8 @@
-# Uheal - Medical Dialogue
+# Multilingual Medical Datasets
 
 ## Introduction
-This repository houses medical dialogues in languages such as Telugu, Hindi, and Swahili, intended for fine-tuning the uheal model to enhance translation capabilities for local languages in specific deployment contexts. This ensuring accurate and contextually relevant medical dialogue translations in diverse linguistic environments of the rural communities.
 
+
+## Medical Symptoms
+- A Collated and Context Sensitive dataset in English, Telegu, Hindi, Swahili, and Arabic
+- Evaluated multiple translation models with the dataset to identify cheaper and scalable models for potential use in uheal. 
