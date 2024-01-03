@@ -1,4 +1,4 @@
-# Machine Translation Model Evaluation
+# Evaluation of Machine Translation Models 
 
 ## Overview
 This repo contains the evaluation and analysis of various machine translation models, specifically tailored for healthcare. The objective is to facilitate accurate and efficient translation of medical dialogue from languages (such as Telugu, Arabic, Swahili, etc.) to English and vice versa. The focus is on ensuring the highest possible accuracy and contextual relevance, given the critical nature of medical communications.
