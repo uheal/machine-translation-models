@@ -28,7 +28,7 @@ The dataset used for the evaluation is in the repo.
 | Seamless M4T-v2 Model| 98.11 | 99.4 | 45.81 | 78.56|
 
 ## Contribution
-Help enhance the effectiveness of medical translations in uHeal.ai! We welcome:
+Help enhance the effectiveness of medical translations in uhealAI! We welcome:
 - Feedback on model performance.
 - Suggestions for model improvement.
 - Contributions to our dataset, particularly in underrepresented languages.
