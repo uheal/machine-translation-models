@@ -1,4 +1,4 @@
-# Evaluation of Machine Translation Models 
+# An Evaluation of Machine Translation Models 
 
 ## Overview
 This repo contains the evaluation and analysis of various machine translation models, specifically tailored for healthcare. The objective is to facilitate accurate and efficient translation of medical dialogue from languages (such as Telugu, Arabic, Swahili, etc.) to English and vice versa. The focus is on ensuring the highest possible accuracy and contextual relevance, given the critical nature of medical communications.
@@ -18,7 +18,7 @@ A comprehensive evaluation framework was implemented to assess the performance o
 - **Cost of Deployment**: Make the cost of deployment cost-effective and  ease of the implementation. 
 
 ## Evaluation
-The dataset used for the evaluation is in the repo.
+The dataset used for the evaluation is the .csv file in the repo.
 
 ### Accuracy of translation using Bleu 
 | Model Name    | Telugu -> English | Hindi -> English | Swahili -> English | Arabic -> English |
@@ -31,7 +31,7 @@ The dataset used for the evaluation is in the repo.
 Help enhance the effectiveness of medical translations in uhealAI! We welcome:
 - Feedback on model performance.
 - Suggestions for model improvement.
-- Contributions to our dataset, particularly in underrepresented languages.
+- Contributions to datasets, specifically in underrepresented languages.
 
 
 ## Contact
@@ -39,4 +39,4 @@ For more information or to contribute to this project, please contact august@uhe
 
 ---
 
-This project is part of our ongoing efforts to leverage technology in bridging language barriers in healthcare. We aim to make healthcare more accessible and effective for diverse populations worldwide.
+Uheal project is part of an ongoing effort to leverage technology in bridging language barriers in healthcare. We aim to make healthcare more accessible and effective for diverse populations worldwide.
