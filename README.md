@@ -21,11 +21,12 @@ A comprehensive evaluation framework was implemented to assess the performance o
 The dataset used for the evaluation is the .csv file in the repo.
 
 ### Accuracy of translation using Bleu 
-| Model Name    | Telugu -> English | Hindi -> English | Swahili -> English | Arabic -> English |
-|---------------|-------------------| ---------------|-------------------|-------------------|
-| GPT-3.5       | 16.7              | 16.9 | 15.6 | 19.3|
-| Helsinki-NLP/opus-mt-mul-en| 19.92 | 22.1 | 17.8 | 24.5|
-| Seamless M4T-v2 Model| 98.11 | 99.4 | 45.81 | 78.56|
+| Model Name             | Telugu -> English | Hindi -> English | Swahili -> English | Arabic -> English | Average        |
+|------------------------|-------------------|------------------|--------------------|-------------------|----------------|
+| GPT-3.5                | 16.7              | 16.9             | 15.6               | 19.3              | 17.125         |
+| Helsinki-NLP/opus-mt-mul-en | 19.92             | 22.1             | 17.8               | 24.5              | 21.08          |
+| Seamless M4T-v2 Model  | 98.11             | 99.4             | 45.81              | 78.56             | 80.47          |
+
 
 ## Contribution
 Help enhance the effectiveness of medical translations in uhealAI! We welcome:
