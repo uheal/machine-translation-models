@@ -20,7 +20,7 @@ A comprehensive evaluation framework was implemented to assess the performance o
 ## Evaluation
 The dataset used for the evaluation is the .csv file in the repo.
 
-### Accuracy of translation using Bleu 
+### Evaluation of translation accuracy using Bleu 
 | Model Name             | Telugu -> English | Hindi -> English | Swahili -> English | Arabic -> English | Average        |
 |------------------------|-------------------|------------------|--------------------|-------------------|----------------|
 | GPT-3.5                | 16.7              | 16.9             | 15.6               | 19.3              | 17.125         |
